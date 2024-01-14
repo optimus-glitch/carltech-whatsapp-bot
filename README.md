@@ -1,15 +1,3 @@
-<p align="center">  
-  <a href="">
-    <img alt="CARLTECH BOT" width="600" height="350" src="https://asset.cloudinary.com/dgqitmzcg/5f79d5c97552fa3e5526f735103269ef">
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/optimus-glitch/carltech-whatsapp-bot.git">
-    <img title="Author" src="https://asset.cloudinary.com/dgqitmzcg/5f79d5c97552fa3e5526f735103269ef">
-  </a>
-<p/>
-
 <p align="center">
   <a href="https://github.com/optimus-glitch?tab=followers">
     <img title="Followers" src="https://img.shields.io/github/followers/optimus-glitch?label=Followers&style=social">
